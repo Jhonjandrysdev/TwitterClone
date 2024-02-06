@@ -1,4 +1,4 @@
-import { Barra } from "../componentes/barralateral";
+import { Barra } from "../componentes/Barralateral";
 import { useAuth } from "../hooks/useAuth";
 import {Tweet} from '../componentes/Tweet';
 export const Home = () => {
