@@ -1,6 +1,6 @@
 import { BrowserRouter,Routes,Route } from 'react-router-dom' // COMO PRIMER PASO SE IMPORTA EL BROWSE ROUTER PARA QUE EL NAVEGADOR IDENTIFQUE QUE ESTE COMPONENTE SE VA A UTILIZAR
 import { Login } from './pages/Login' // CADA COMPONENTE SE IMPORTA PARA MOSTRARLO EN LAS RUTAS
-import { Profile } from './pages/profile'
+import { Profile } from './pages/Profile'
 import { Register } from './componentes/Register'
 import { Home } from './pages/Home'
 import { Notifications } from './pages/Notifications'
