@@ -17,14 +17,13 @@ import "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAa3nMVzkd8rz31-kTVp-WAydMZUa-CPIA",
-  authDomain: "twitter-cb65d.firebaseapp.com",
-  projectId: "twitter-cb65d",
-  storageBucket: "twitter-cb65d.appspot.com",
-  messagingSenderId: "85023014931",
-  appId: "1:85023014931:web:b715b3ba988e7061767fe6",
+  apiKey: "AIzaSyC9qvKc13N8wTl4cPkDPiInribTQHPe8Fs",
+  authDomain: "twitter-a89e1.firebaseapp.com",
+  projectId: "twitter-a89e1",
+  storageBucket: "twitter-a89e1.appspot.com",
+  messagingSenderId: "731497016088",
+  appId: "1:731497016088:web:94719171825000e11c0c6d"
 };
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
